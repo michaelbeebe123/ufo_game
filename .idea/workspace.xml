@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ufo_game" targetName="main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95a94d69-c630-4d55-a231-ca29ea5732c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aBzimqkaiZliGj3Tu1dIeuapV8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ufo_game" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ufo_game" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95a94d69-c630-4d55-a231-ca29ea5732c6" name="Default Changelist" comment="" />
+      <created>1586223905007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586223905007</updated>
+      <workItem from="1586223906511" duration="1816000" />
+      <workItem from="1586225729537" duration="8177000" />
+      <workItem from="1586234623026" duration="85000" />
+      <workItem from="1586234739664" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="592" height="556" key="GridCell.Tab.0.bottom" timestamp="1586234418007">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="585" height="504" key="GridCell.Tab.0.bottom/-1440.-32.1440.877/0.23.1360.656/1360.23.1366.745@0.23.1360.656" timestamp="1586233478476" />
+    <state width="592" height="556" key="GridCell.Tab.0.bottom/0.23.1440.788@0.23.1440.788" timestamp="1586234418007" />
+    <state width="592" height="556" key="GridCell.Tab.0.center" timestamp="1586234418006">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="585" height="504" key="GridCell.Tab.0.center/-1440.-32.1440.877/0.23.1360.656/1360.23.1366.745@0.23.1360.656" timestamp="1586233478475" />
+    <state width="592" height="556" key="GridCell.Tab.0.center/0.23.1440.788@0.23.1440.788" timestamp="1586234418006" />
+    <state width="592" height="556" key="GridCell.Tab.0.left" timestamp="1586234418005">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="585" height="504" key="GridCell.Tab.0.left/-1440.-32.1440.877/0.23.1360.656/1360.23.1366.745@0.23.1360.656" timestamp="1586233478474" />
+    <state width="592" height="556" key="GridCell.Tab.0.left/0.23.1440.788@0.23.1440.788" timestamp="1586234418005" />
+    <state width="592" height="556" key="GridCell.Tab.0.right" timestamp="1586234418007">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="585" height="504" key="GridCell.Tab.0.right/-1440.-32.1440.877/0.23.1360.656/1360.23.1366.745@0.23.1360.656" timestamp="1586233478476" />
+    <state width="592" height="556" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1586234418007" />
+    <state x="492" y="327" width="528" height="316" key="cloudConfig.PluginsDialog" timestamp="1586234675230">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="492" y="327" width="528" height="316" key="cloudConfig.PluginsDialog/0.27.1440.873@0.27.1440.873" timestamp="1586234675230" />
+    <state x="514" y="327" width="474" height="316" key="cloudConfig.SelfSettingsDialog" timestamp="1586234668028">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="514" y="327" width="474" height="316" key="cloudConfig.SelfSettingsDialog/0.27.1440.873@0.27.1440.873" timestamp="1586234668028" />
+    <state x="386" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1586234740167">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="386" y="291" key="com.intellij.ide.util.TipDialog/0.27.1440.873@0.27.1440.873" timestamp="1586234740167" />
+  </component>
+</project>
